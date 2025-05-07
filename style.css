@@ -65,7 +65,7 @@ body{
 
 .phone{
    width: 273px;
-   height: 570px;
+   height: 600px;
    background-color: var(--White);
    box-shadow: 5px 5px 18px rgb(211, 210, 210);
    position: absolute;

@@ -78,7 +78,7 @@ body{
 
 .background{
    width: 250px;
-   height: 529px;
+   height: auto;
    background-color: var(--Light-Grayish-Violet);
    border-radius: 30px;
    position: absolute;
@@ -314,8 +314,6 @@ body{
     color: var(--Desaturated-Dark-Violet);
     padding: 10px;
     font-size: 17px;
-    padding-left: 20px;
-   padding-right: 20px;
    line-height: 20px;
  }
  
@@ -324,7 +322,6 @@ body{
    width: 50%;
     background-color: var(--Light-Grayish-Violet);
     border-top-left-radius: 85%;
-    /* border-top-right-radius: 50%; */
     position: absolute;
     left: 50%;
     top: 70%;
